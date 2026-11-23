@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+*.log
+*.err
+_scratch*.py
+_quick_test.ipynb
+explore_out.txt
+.DS_Store
+catboost_info/
+VIDEO_SCRIPT_3min.md
+VIDEO_TRANSCRIPT.html
